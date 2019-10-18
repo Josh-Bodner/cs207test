@@ -2,6 +2,6 @@
 
 [![codecov](https://codecov.io/gh/Josh-Bodner/cs207test/branch/master/graph/badge.svg)](https://codecov.io/gh/Josh-Bodner/cs207test)
 
-##This directory was created for CS207 HW4 P5
+## This directory was created for CS207 HW4 P5
 ### Author: Josh Bodner
 
